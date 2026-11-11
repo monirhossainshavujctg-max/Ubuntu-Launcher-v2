@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bar_service_desc">সব অ্যাপের উপরে Ubuntu-স্টাইল টপ বার (সময়, ব্যাটারি, নেটওয়ার্ক) দেখায়।</string>
+</resources>
